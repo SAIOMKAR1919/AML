@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 40px;
+}
+form{
+    background: white;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    border: 1px solid black;
+}
+input{
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+}
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+hr{
+    width: 60%;
+}
+img{
+    margin-top: 20px;
+    border: 1px solid black;
+}
